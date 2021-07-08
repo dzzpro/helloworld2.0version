@@ -1,2 +1,5 @@
 # helloworld2.0version
-上一个烂掉了
+github教程
+
+nice to meet you!
+this is an readMe file
